@@ -5,10 +5,9 @@
 // Execute `rustlings hint primitive_types3` or use the `hint` watch subcommand
 // for a hint.
 
-// I AM NOT DONE
 
 fn main() {
-    let a = ???
+    let a = "1010104372894321789053271589327159803217589217598023750982137538029157132985732985032175980217589217529315321532153215";
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
